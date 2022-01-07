@@ -1,0 +1,58 @@
+[
+    {
+      "name": "Typescript",
+      "ring": "Linguagem de Programação",
+      "quadrant": "tools",
+      "isNew": "TRUE",
+      "description": "Although"
+    },
+    {
+        "name": "ReactJS",
+        "ring": "Adotada",
+        "quadrant": "Frameworks",
+        "isNew": "TRUE",
+        "description": "Frameworks"
+      },
+      {
+        "name": "AngularJs(1x)",
+        "ring": "Desuso",
+        "quadrant": "Frameworks",
+        "isNew": "TRUE",
+        "description": "Frameworks"
+      },
+      {
+        "name": "Apollo Client",
+        "ring": "Adotada",
+        "quadrant": "Libraries",
+        "isNew": "TRUE",
+        "description": "Libraries"
+      },
+      {
+        "name": "Redux",
+        "ring": "Em adoção",
+        "quadrant": "Libraries",
+        "isNew": "TRUE",
+        "description": "Libraries"
+      },
+      {
+        "name": "Jest",
+        "ring": "Adotada",
+        "quadrant": "Testes Unitários",
+        "isNew": "TRUE",
+        "description": "Although"
+      },
+      {
+        "name": "Testing library",
+        "ring": "Adotada",
+        "quadrant": "Testes Unitários",
+        "isNew": "TRUE",
+        "description": "Although"
+      },
+      {
+        "name": "Enzyme",
+        "ring": "Desuso",
+        "quadrant": "Testes Unitários",
+        "isNew": "TRUE",
+        "description": "Although"
+      }
+]
