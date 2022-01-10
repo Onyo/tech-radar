@@ -156,21 +156,21 @@
     {
       "name": "Jest",
       "ring": "Adotada",
-      "quadrant": "Testes Unitários",
+      "quadrant": "Unit Tests",
       "isNew": "FALSE",
       "description": "<a href='https://jestjs.io/'>Jest</a> is a delightful JavaScript Testing Framework with a focus on simplicity"
     },
     {
       "name": "Testing library",
       "ring": "Adotada",
-      "quadrant": "Testes Unitários",
+      "quadrant": "Unit Tests",
       "isNew": "FALSE",
       "description": "<a href='https://testing-library.com/'>Testing library</a> is a simple and complete testing utilities that encourage good testing practices"
     },
     {
       "name": "Enzyme",
       "ring": "Desuso",
-      "quadrant": "Testes Unitários",
+      "quadrant": "Unit Tests",
       "isNew": "FALSE",
       "description": "<a href='https://enzymejs.github.io/enzyme/'>Enzyme</a> is a JavaScript Testing utility for React that makes it easier to test your React Components' output. You can also manipulate, traverse, and in some ways simulate runtime given the output."
     }
