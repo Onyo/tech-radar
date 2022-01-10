@@ -2,56 +2,176 @@
     {
       "name": "Typescript",
       "ring": "Adotada",
-      "quadrant": "Linguagem de Programação",
+      "quadrant": "Langs and Frameworks",
+      "isNew": "FALSE",
+      "description": "<a href='https://www.typescriptlang.org/'>Typescript</a> is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale."
+    },
+    {
+      "name": "ReactJS",
+      "ring": "Adotada",
+      "quadrant": "Langs and Frameworks",
+      "isNew": "FALSE",
+      "description": "<a href='https://pt-br.reactjs.org/'>ReactJS</a> is a JavaScript library for building user interfaces."
+    },
+    {
+      "name": "AngularJs(1x)",
+      "ring": "Desuso",
+      "quadrant": "Langs and Frameworks",
+      "isNew": "FALSE",
+      "description": "<a href='https://angularjs.org/'>AngularJs(1x)</a> is a structural framework for dynamic web apps"
+    },
+    {
+      "name": "Apollo Client",
+      "ring": "Adotada",
+      "quadrant": "Libraries",
+      "isNew": "FALSE",
+      "description": "<a href='https://www.apollographql.com/docs/react/'>Client</a> is is a comprehensive state management library for JavaScript that enables you to manage both local and remote data with GraphQL."
+    },
+    {
+      "name": "Redux",
+      "ring": "Em adoção",
+      "quadrant": "Libraries",
       "isNew": "TRUE",
-      "description": "Although"
+      "description": "<a href='https://redux.js.org/'>Redux</a> is a Predictable State Container for JS Apps"
     },
     {
-    "name": "ReactJS",
-    "ring": "Adotada",
-    "quadrant": "Frameworks",
-    "isNew": "TRUE",
-    "description": "Frameworks"
+      "name": "Material UI",
+      "ring": "Adotada",
+      "quadrant": "Libraries",
+      "isNew": "FALSE",
+      "description": "<a href='https://mui.com/'>UI</a> is a framework that provides a robust, customizable, and accessible library of foundational and advanced components, enabling you to build your own design system and develop React applications faster."
     },
     {
-    "name": "Apollo Client",
-    "ring": "Adotada",
-    "quadrant": "Libraries",
-    "isNew": "TRUE",
-    "description": "Libraries"
+      "name": "Axios",
+      "ring": "Adotada",
+      "quadrant": "Libraries",
+      "isNew": "FALSE",
+      "description": "<a href='https://axios-http.com/'>Axios</a> is a simple promise based HTTP client for the browser and node.js. Axios provides a simple to use library in a small package with a very extensible interface."
     },
     {
-    "name": "Jest",
-    "ring": "Adotada",
-    "quadrant": "Testes Unitários",
-    "isNew": "TRUE",
-    "description": "Although"
+      "name": "Formik",
+      "ring": "Adotada",
+      "quadrant": "Libraries",
+      "isNew": "FALSE",
+      "description": "<a href='https://formik.org/docs/overview'>Formik</a> is a lib for build forms in React, without the tears"
     },
     {
-    "name": "Testing library",
-    "ring": "Adotada",
-    "quadrant": "Testes Unitários",
-    "isNew": "TRUE",
-    "description": "Although"
+      "name": "Lodash",
+      "ring": "Adotada",
+      "quadrant": "Libraries",
+      "isNew": "FALSE",
+      "description": "<a href='https://lodash.com/'>Lodash</a> is a modern JavaScript utility library delivering modularity, performance & extras."
     },
     {
-    "name": "Redux",
-    "ring": "Em adoção",
-    "quadrant": "Libraries",
-    "isNew": "TRUE",
-    "description": "Libraries"
+      "name": "Ramda",
+      "ring": "Adotada",
+      "quadrant": "Libraries",
+      "isNew": "TRUE",
+      "description": "<a href='https://ramdajs.com/'>Ramda</a> is a practical functional library for JavaScript programmers."
     },
     {
-    "name": "Enzyme",
-    "ring": "Desuso",
-    "quadrant": "Testes Unitários",
-    "isNew": "TRUE",
-    "description": "Although"
-    },{
-    "name": "AngularJs(1x)",
-    "ring": "Desuso",
-    "quadrant": "Frameworks",
-    "isNew": "TRUE",
-    "description": "Frameworks"
+      "name": "React Router",
+      "ring": "Adotada",
+      "quadrant": "Libraries",
+      "isNew": "FALSE",
+      "description": "<a href='https://reactrouterdotcom.fly.dev/docs/en/v6'>React Router</a> is a lib to create navigation in react apps"
+    },
+    {
+      "name": "React Helmet",
+      "ring": "Adotada",
+      "quadrant": "Libraries",
+      "isNew": "FALSE",
+      "description": "<a href='https://github.com/nfl/react-helmetr'>React Helmet</a> will manage all of your changes to the document head. Helmet takes plain HTML tags and outputs plain HTML tags. It's dead simple, and React beginner friendly."
+    },
+    {
+      "name": "Yup",
+      "ring": "Adotada",
+      "quadrant": "Libraries",
+      "isNew": "FALSE",
+      "description": "<a href='https://github.com/jquense/yup'>Yup</a> is a JavaScript schema builder for value parsing and validation. Define a schema, transform a value to match, validate the shape of an existing value, or both"
+    },
+    {
+      "name": "Redux Toolkit",
+      "ring": "Em adoção",
+      "quadrant": "Libraries",
+      "isNew": "TRUE",
+      "description": "<a href='https://github.com/jquense/yup'>Toolkit</a> is the official, opinionated, batteries-included toolset for efficient Redux development"
+    },
+    {
+      "name": "React Intl",
+      "ring": "Em adoção",
+      "quadrant": "Libraries",
+      "isNew": "TRUE",
+      "description": "<a href='https://formatjs.io/docs/react-intl/'>React Intl</a> is a lib to management web app internacionalization."
+    },
+    {
+      "name": "React Scripts",
+      "ring": "Adotada",
+      "quadrant": "Developer Tools",
+      "isNew": "FALSE",
+      "description": "<a href='https://create-react-app.dev/'>Scripts</a> is a lib for common actions to run react applications that use create-react-app."
+    },
+    {
+      "name": "Pretier",
+      "ring": "Adotada",
+      "quadrant": "Developer Tools",
+      "isNew": "FALSE",
+      "description": "<a href='https://prettier.io'>Pretier</a> is code format to any languages and frameworks."
+    },
+    {
+      "name": "ESLint",
+      "ring": "Adotada",
+      "quadrant": "Developer Tools",
+      "isNew": "FALSE",
+      "description": "<a href='https://eslint.org/'>ESLint</a> is a lib that statically analyzes your code to quickly find problems, and fix automatically."
+    },
+    {
+      "name": "Stylelint",
+      "ring": "Em adoção",
+      "quadrant": "Developer Tools",
+      "isNew": "TRUE", 
+      "description": "<a href='https://stylelint.io/'>Stylelint</a> is a mighty, modern linter that helps you avoid errors and enforce conventions in your styles."
+    },
+    {
+      "name": "Semantic Release",
+      "ring": "Adotada",
+      "quadrant": "Developer Tools",
+      "isNew": "FALSE",
+      "description": "<a href='https://github.com/semantic-release/semantic-release'>Semantic Release</a> automates the whole package release workflow including: determining the next version number, generating the release notes, and publishing the package."
+    },
+    {
+      "name": "Dotenv cli",
+      "ring": "Adotada",
+      "quadrant": "Developer Tools",
+      "isNew": "FALSE",
+      "description": "<a href='https://www.npmjs.com/package/dotenv-cli'>cli</a> is a client terminal interface to use env vars in .env files."
+    },
+    {
+      "name": "Graphql codegen",
+      "ring": "Adotada",
+      "quadrant": "Developer Tools",
+      "isNew": "FALSE",
+      "description": "<a href='https://www.graphql-code-generator.com/'>codegen</a> is a client to generate code from your GraphQL schema and operations with a simple CLI"
+    },
+    {
+      "name": "Jest",
+      "ring": "Adotada",
+      "quadrant": "Testes Unitários",
+      "isNew": "FALSE",
+      "description": "<a href='https://jestjs.io/'>Jest</a> is a delightful JavaScript Testing Framework with a focus on simplicity"
+    },
+    {
+      "name": "Testing library",
+      "ring": "Adotada",
+      "quadrant": "Testes Unitários",
+      "isNew": "FALSE",
+      "description": "<a href='https://testing-library.com/'>Testing library</a> is a simple and complete testing utilities that encourage good testing practices"
+    },
+    {
+      "name": "Enzyme",
+      "ring": "Desuso",
+      "quadrant": "Testes Unitários",
+      "isNew": "FALSE",
+      "description": "<a href='https://enzymejs.github.io/enzyme/'>Enzyme</a> is a JavaScript Testing utility for React that makes it easier to test your React Components' output. You can also manipulate, traverse, and in some ways simulate runtime given the output."
     }
 ]
