@@ -64,7 +64,7 @@
     },
     {
       "name": "Ramda",
-      "ring": "Adotada",
+      "ring": "Em adoção",
       "quadrant": "Libraries",
       "isNew": "TRUE",
       "description": "<a href='https://ramdajs.com/'>Ramda</a> is a practical functional library for JavaScript programmers."
@@ -112,11 +112,11 @@
       "description": "<a href='https://create-react-app.dev/'>Scripts</a> is a lib for common actions to run react applications that use create-react-app."
     },
     {
-      "name": "Pretier",
+      "name": "Prettier",
       "ring": "Adotada",
       "quadrant": "Developer Tools",
       "isNew": "FALSE",
-      "description": "<a href='https://prettier.io'>Pretier</a> is code format to any languages and frameworks."
+      "description": "<a href='https://prettier.io'>Prettier</a> is code format to any languages and frameworks."
     },
     {
       "name": "ESLint",
